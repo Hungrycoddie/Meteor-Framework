@@ -1,4 +1,4 @@
-# Metor-Framework
+<p align="center">Metor-Framework</p>
 
 <h1>What is Meteor and its Benefits?</h1>
 
