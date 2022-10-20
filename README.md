@@ -1,7 +1,9 @@
 <h1 align="center"> Meteor-Framework</h1>
+<div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">What is Meteor and its Benefits?</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 Meteor is an open-source framework for developing web, mobile and desktop applications using JavaScript. It makes it easy to build full-stack applications with Node.js and MongoDB in the back-end and any of the most used front-end frameworks like React, Svelte, Vue and Blaze.
 
