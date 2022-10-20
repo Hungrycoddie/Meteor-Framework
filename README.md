@@ -1,7 +1,7 @@
 <h1 align="center"> Meteor-Framework</h1>
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">What is Meteor and its Benefits?</h2>
+<p align="center">What is Meteor and its Benefits?<p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
