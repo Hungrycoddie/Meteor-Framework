@@ -16,3 +16,6 @@ Meteor is an open-source framework for developing web, mobile and desktop applic
 - You can deploy Meteor apps anywhere just like any regular Node.js application. You could use the Meteor Up tool to run it on a server, Docker for a container-based deployment, or our recommended way using Galaxy. Galaxy is part of the Meteor Cloud platform. Where you can build, monitor, host and scale your application confidently with zero DevOps.
 
 ![6499fe45640b69cd058c3245a7569ae2](https://user-images.githubusercontent.com/106869558/197052934-f19c0cef-e1a4-48c3-8082-7d970f9591d6.png)
+
+
+https://github.com/fredmaiaarantes/starting-with-meteor. 
