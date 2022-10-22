@@ -1,10 +1,14 @@
 import React from "react";
 import { ContactsCollection } from "../api/ContactsCollection";
+
+// use tracker hook to modify from DB 2
+
 import { useTracker } from "meteor/react-meteor-data";
 
 export const ContactList = () => {
   const contacts = useTracker(() => {
-    return ContactsCollection.find({}).fetch(); // Tracker
+    // call tracker 3
+    return ContactsCollection.find({}).fetch(); // Tracker is a meteor libray  1
   });
 
   return (
