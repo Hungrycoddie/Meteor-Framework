@@ -1,9 +1,9 @@
 import assert from "assert";
 
-describe("digital-wallet", function () {
+describe("meteor-wallet", function () {
   it("package.json has correct name", async function () {
     const { name } = await import("../package.json");
-    assert.strictEqual(name, "digital-wallet");
+    assert.strictEqual(name, "meteor-wallet");
   });
 
   if (Meteor.isClient) {
